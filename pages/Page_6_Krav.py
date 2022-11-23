@@ -18,7 +18,7 @@ def create_prototype_data():
 
 rec, sena, sla = create_prototype_data()
 
-dash.register_page(__name__)
+# dash.register_page(__name__)
 
 layout = html.Div([
 
